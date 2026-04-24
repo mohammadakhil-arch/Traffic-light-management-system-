@@ -1,0 +1,21 @@
+light_id,voltage,current,temperature,status,latitude,longitude,area
+BL001,230,0.8,45,ON,12.9718,77.5949,Central Bangalore
+BL002,0,0.6,80,OFF,12.9725,77.5955,Central Bangalore
+BL003,230,1.7,50,ON,12.9732,77.5962,Central Bangalore
+BL004,230,1.9,82,ON,12.9740,77.5970,Central Bangalore
+BL005,0,0.5,40,OFF,12.9748,77.5978,Central Bangalore
+BL006,230,0.9,72,ON,12.9756,77.5986,Central Bangalore
+BL007,230,1.6,55,ON,12.9764,77.5994,Central Bangalore
+BL008,0,0.4,38,OFF,12.9772,77.6002,Central Bangalore
+BL009,230,0.7,48,ON,12.9780,77.6010,Central Bangalore
+BL010,230,1.8,85,ON,12.9788,77.6018,Central Bangalore
+BL011,0,0.9,42,OFF,12.9796,77.6026,Central Bangalore
+BL012,230,0.6,46,ON,12.9804,77.6034,Central Bangalore
+BL013,230,1.5,75,ON,12.9812,77.6042,Central Bangalore
+BL014,0,0.3,35,OFF,12.9820,77.6050,Central Bangalore
+BL015,230,1.2,68,ON,12.9828,77.6058,Central Bangalore
+BLR_RRN_01,230,0.6,45,ON,12.9255,77.5190,Rajarajeshwari Nagar
+BLR_RRN_02,230,1.7,55,ON,12.9270,77.5175,Rajarajeshwari Nagar
+BLR_RRN_03,0,0,30,OFF,12.9238,77.5212,Rajarajeshwari Nagar
+BLR_RRN_04,230,0.5,80,ON,12.9269,77.5230,Rajarajeshwari Nagar
+BLR_RRN_05,230,2.1,60,ON,12.9242,77.5168,Rajarajeshwari Nagar
